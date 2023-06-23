@@ -10,6 +10,8 @@
 
 ## Flow Chart:
 
+![flow chart](https://github.com/Mdzaidsiddique/Blooming-Buds/assets/87862008/41e2e3ab-a330-4369-a3f9-e02cf36aa368)
+
 ## ER Diagram:
 
 ![ER diagram](https://github.com/Mdzaidsiddique/Blooming-Buds/assets/87862008/940447f4-5635-4528-8056-8003687f1558)
