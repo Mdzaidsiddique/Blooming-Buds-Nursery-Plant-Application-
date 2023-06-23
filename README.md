@@ -1,8 +1,8 @@
-# Blooming-Buds
+![banner2](https://github.com/Mdzaidsiddique/Blooming-Buds/assets/87862008/9b7bf0e6-f432-4afb-a0b6-590282a9d6bc)
 
 ## Domain Description:
 
-- This is an online nursery application that provides an online marketplace for buying plants and gardening supplies. It enables users to purchase a wide variety of plants, seeds, planter, and accessories for gardening from the convenience of their own home.
+- This is an online nursery application that provides an online marketplace for buying plants and gardening supplies. It enables users to purchase a wide variety of plants, seeds, planters, and accessories for gardening from the convenience of their own homes.
 
 - The application typically has features that allow users to search for specific plants or products, browse through various categories of plants and products, and read detailed descriptions and reviews before making a purchase.
 
