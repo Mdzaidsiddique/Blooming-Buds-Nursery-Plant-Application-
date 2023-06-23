@@ -1,0 +1,10 @@
+Zaid Thank you for the Order 
+This is your Order Details 
+-----------------------------
+Order Type : PLANT
+Cost :5
+Total Quantity :10
+Total Cost :50
+Payment Type :googlePay
+Description : plantHeight :1 plantSpread :3cm commonName :rose bloomTime :2days typeOfPlant :circular plantDescription :lorem
+Address :Address(addId=0, houseNo=302, colony=Ashiyana, city=Lucknow, state=UP, pincode=626252)
